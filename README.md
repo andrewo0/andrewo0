@@ -1,10 +1,10 @@
 # Andrew Osenga
 
-**Senior Software Engineer · Architecture & DevOps**
+**Senior Software Engineer - Architecture & DevOps**
 
 Building scalable applications, modular software architectures.
 
-Based in the Netherlands · [andrewosenga.nl](https://www.andrewosenga.nl)
+Based in the Netherlands - [andrewosenga.nl](https://www.andrewosenga.nl)
 
 ---
 
@@ -31,7 +31,7 @@ Based in the Netherlands · [andrewosenga.nl](https://www.andrewosenga.nl)
 
 **Data & Messaging**
 
-[![Data](https://skillicons.dev/icons?i=mysql,redis,rabbitmq)](https://skillicons.dev)
+[![Data](https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,azure,)](https://skillicons.dev)
 
 ---
 
