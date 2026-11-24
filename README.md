@@ -19,11 +19,11 @@ Based in the Netherlands - [andrewosenga.nl](https://www.andrewosenga.nl)
 
 **Backend**
 
-[![Backend](https://skillicons.dev/icons?i=php,symfony,laravel)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=php,python,django,symfony,laravel)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend](https://skillicons.dev/icons?i=ts,vue,nuxt,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,vue,nuxt,tailwind)](https://skillicons.dev)
 
 **Infrastructure**
 
